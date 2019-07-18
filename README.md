@@ -9,3 +9,7 @@ frcnn_train.ipynb is the notebook to train the model. frcnn_test.ipynb is the fi
 
 This all have been done for the Kaggle Challenge,Open Images 2019 - Object Detection: https://www.kaggle.com/c/open-images-2019-object-detection .
 You can download the dataset from here: https://storage.googleapis.com/openimages/web/challenge2019_downloads.html
+
+References:
+http://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
+
